@@ -7,22 +7,23 @@ const styles = StyleSheet.create({
     backgroundColor: '#F5F5F5', 
     padding: 8, 
   }, 
-  paragraph: {
-    margin: 24, 
-    fontSize: 26, 
-    fontWeight: 'bold', 
-    textAlign: 'center', 
-    color: '#9E9E9E', 
-  }, 
   button: {
-    backgroundColor: '#9E9E9E', 
-    height: 60, 
-    justifyContent: 'center',
-    
+    margin: 5,
+    padding: 5,
+    backgroundColor: '#424242', 
+    height: 80, 
+    justifyContent: 'center', 
+  }, 
+  buttonact: {
+    margin: 5,
+    padding: 5,
+    backgroundColor: '#424242', 
+    height: 70, 
+    justifyContent: 'center', 
   }, 
   textButton: {
-    fontSize: 20, 
-    color: '#fff', 
+    fontSize: 40, 
+    color: '#424242', 
     textAlign: 'center', 
   }, 
   counter: {

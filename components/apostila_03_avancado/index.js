@@ -35,7 +35,7 @@ export default function apostila03() {
           style={styles.button}
           onPress={ () => zerarNumber()}
         >
-        <Text style={styles.textButton}>Zerar</Text>
+        <Text style={styles.textbutton}>Zerar</Text>
         </TouchableOpacity>
       </View>
 
