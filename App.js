@@ -21,10 +21,10 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: corApp,
-    //alignItems: 'center',
-    //justifyContent: 'center',
     padding: 8,
     paddingTop: Constants.statusBarHeight,
+    //alignItems: 'center',
+    //justifyContent: 'center',
     
   },
 });

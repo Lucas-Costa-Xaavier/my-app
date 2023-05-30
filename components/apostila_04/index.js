@@ -9,4 +9,4 @@ function Apostila04(){
             </View>
       );
 }
-export default Apostila04;
+export default Apostila04
