@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { Text, View , TouchableOpacity } from 'react-native';
 import styles from './styles';
 
-export default function apostila03() {
+export default function Apostila03() {
   
   //State
   const [contador, setContador] = useState(0);

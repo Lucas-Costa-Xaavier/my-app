@@ -3,7 +3,7 @@ import { Text, View , TouchableOpacity } from 'react-native';
 import Botao from './botao';
 import styles from './styles';
 
-export default function apostila03() {
+export default function Apostila03() {
   
   //State
   const [contador, setContador] = useState(0);
