@@ -63,7 +63,7 @@ export default function Apostila05 ()    {
                 editable={false}
                 value={total}
             />  
-            
+            <View style={styles.containerbutton}>
             <TouchableOpacity style={ styles.button} onPress={() => Soma()}>
                 <Text style={styles.textButton}> + </Text>
             </TouchableOpacity>
@@ -83,6 +83,7 @@ export default function Apostila05 ()    {
             <TouchableOpacity style={ styles.button} onPress={() => Zerar()}>
                 <Text style={styles.textButton}> Zerar </Text>
             </TouchableOpacity>
+            </View>
         </View>
     );
 }
