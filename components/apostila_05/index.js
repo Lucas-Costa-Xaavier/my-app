@@ -29,7 +29,7 @@ export default function Apostila05 ()    {
     }
 
     function Zerar() {
-        const conta = ();
+        setTotal (0);
     }
 
     return(
