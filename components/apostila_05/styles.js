@@ -34,10 +34,9 @@ const styles = StyleSheet.create({
     button: {
       backgroundColor: '#E91E63', 
       height: 40, 
-      justifyContent: 'center', 
       borderRadius: 10, 
-      flexDirection: 'row',
       marginTop: 20,
+      width: 60,
     }, 
     textButton: {
       fontSize: 22, 
